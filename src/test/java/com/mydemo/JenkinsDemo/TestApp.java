@@ -22,5 +22,10 @@ public class TestApp {
 		
 		assertEquals(expected, result);
 	}
+	
+	@Test
+	public void testEmpty() {
+		
+	}
 
 }
